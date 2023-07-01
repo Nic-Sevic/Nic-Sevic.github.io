@@ -9,4 +9,3 @@ root.render(
     <Quote />
   </React.StrictMode>
 );
-
