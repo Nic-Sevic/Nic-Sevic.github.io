@@ -2,11 +2,14 @@
 
 A site to display projects while I build skills
 
-Latest updates:
-- I created unit tests for the anyone can register notice and am waiting on feedback
-- I finished the calculator project
+### Coursera certificate courses:
 
-## More Recent:
+Google IT Automation with Python: [Course](https://www.coursera.org/specializations/google-it-automation) / [Certificate](https://coursera.org/share/d57e5ebab5251281b9e23bcef8e11210)
+
+- Transforming images using PIL - [image_cleanup.py](https://github.com/Nic-Sevic/Coursera/blob/main/image_cleanup.py)
+- Posting online reviews using requests - [reviews.py](https://github.com/Nic-Sevic/Coursera/blob/main/reviews.py)
+- Mailing a PDF sales report using reportlab and smtplib - [mailing_PDF.py](https://github.com/Nic-Sevic/Coursera/blob/main/mailing_PDF.py)
+- Putting all the pieces together (processing images, uploading data to server, generating PDF report, handing mailing, monitoring system for errors) - [catalog_update](https://github.com/Nic-Sevic/Coursera/tree/main/catalog_update)
 
 ### Independent work:
 - [Anyone can register notice](https://nic-sevic.github.io/#:~:text=Anyone%20can%20register%20notice)
